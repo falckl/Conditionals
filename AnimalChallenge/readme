@@ -1,0 +1,9 @@
+Animal Challenge:
+
+  Create a class called Animal, which should contain at least 2 methods and 3 variables of your choosing.
+
+  Create 4 more classes, each with their own methods and variables, which also inherit from Animal.
+
+  Create 2 interfaces, each containing one method, which can be implemented across your hierarchy.
+
+  Draw a diagram to explain your class hierarchy.
