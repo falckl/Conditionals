@@ -1,0 +1,5 @@
+This is a simple example of how the Factory Design Pattern can be used to create new instances of clothing.
+The "Clothes" interface is implemented by each clothing type class (Jeans, Sweater, Socks).
+New clothing class types can be created without affecting the existing code.
+The "Factory" creates objects of any given type.
+Creating the clothing items in the demo shows that the user does not have to access the creation logic.
